@@ -1,0 +1,26 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.Header{
+   
+    background-color: black;
+    color: white;
+
+}
+.header__col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__col h1 {
+    font-size: 1.25rem;
+}
+.header__col span{
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0.55);
+}
+#home{
+    color: white;
+}
